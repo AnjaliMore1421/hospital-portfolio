@@ -29,7 +29,7 @@ https://replit.com/@moreanjali219/hospital-backend
 #  Mobile App (Production Build)
 
 ##  Android App Bundle (AAB)
-https://expo.dev/artifacts/eas/vkqvEyKMaAdiUXgGg3VtKH.aab
+https://expo.dev/accounts/anjalimore/projects/hospital-app/builds/029dbf87-7820-4020-bf6d-b99fe7be0c4c
 
  Note:
 - This is an **AAB file**
