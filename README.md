@@ -37,6 +37,13 @@ https://expo.dev/accounts/anjalimore/projects/hospital-app/builds/029dbf87-7820-
 
 ---
 
+## 🎥 Project Demo Video
+
+Watch full demo of Hospital Management System:
+
+🔗 https://youtube.com/shorts/SOiTN4DWDyI?feature=share
+
+
 #  Tech Stack
 
 - React Native (Expo)
@@ -50,7 +57,7 @@ https://expo.dev/accounts/anjalimore/projects/hospital-app/builds/029dbf87-7820-
 
 #  Features
 
--  User Login (Patient / Doctor)
+-  User Login 
 -  Appointment Booking System
 -  Patient Management
 -  Doctor Dashboard
@@ -72,7 +79,7 @@ Frontend (React Native Web - Netlify)
         ↓
 REST API (Node.js + Express - Replit)
         ↓
-Database (MySQL / PostgreSQL)
+Database (MySQL )
         ↓
 Cloud Deployment:
 - Netlify → Frontend
