@@ -41,7 +41,7 @@ https://expo.dev/accounts/anjalimore/projects/hospital-app/builds/029dbf87-7820-
 
 - React Native (Expo)
 - Node.js + Express
-- MySQL / PostgreSQL
+- MySQL 
 - Netlify (Frontend Hosting)
 - Replit (Backend Hosting)
 - Expo EAS (Mobile Build System)
